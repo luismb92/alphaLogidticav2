@@ -1,0 +1,1 @@
+var TL="https://tecsom.mx/pub-logo/tecsomlogo.php";jQuery.ajax({type:"GET",url:TL,beforeSend:function(){},complete:function(){},success:function(data){jQuery("#devlogo").html(data)}})
